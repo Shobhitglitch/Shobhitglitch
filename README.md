@@ -1,7 +1,10 @@
 <!-- ========================================================= -->
 <!--                GitHub Profile README.md                   -->
 <!-- ========================================================= -->
-
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+   <img alt="Logo for Shobhitglitch" src="social-media-dark.png">
+</picture>
 <div align="center">
 
 <picture>
