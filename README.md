@@ -123,8 +123,6 @@ I'm **Shobhit Kesarwani**, a passionate Computer Science student who loves build
 </p>
 </div>
 
-```yaml
-
 
 <div align="center">
 
