@@ -111,8 +111,9 @@ I'm **Shobhit Kesarwani**, a passionate Computer Science student who loves build
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Shobhitglitch/Shobhitglitch/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shobhitglitch/Shobhitglitch/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
 </div>
 
 ```yaml
