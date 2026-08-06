@@ -1,23 +1,14 @@
 <!-- ========================================================= -->
 <!--                GitHub Profile README.md                   -->
 <!-- ========================================================= -->
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
-   <img alt="Logo for Shobhitglitch" src="social-media-dark.png">
-</picture>
+
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:880808,25:800020,50:D70040,75:811331,100:2B0000&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=52&fontAlignY=40&animation=fadeIn&desc=Building%20Ideas%20Into%20Reality&descAlignY=60"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FDECEC,25:F8D7DA,50:F5B7B1,75:F1948A,100:E57373&text=Welcome%20To%20My%20GitHub&fontColor=880808&fontSize=52&fontAlignY=40&animation=fadeIn&desc=Building%20Ideas%20Into%20Reality&descAlignY=60"
-  />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:880808,100:D70040&text=Welcome%20To%20My%20GitHub"/>
+   <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+   <img alt="Logo for Shobhitglitch" src="header-light.png">
 </picture>
+
 
 # Hey there, I'm Shobhit Kesarwani 👋
 
